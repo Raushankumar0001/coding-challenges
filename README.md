@@ -23,3 +23,23 @@ This repository contains my personal solutions to various **LeetCode** coding pr
 
 ##  Repository Structure
 
+coding-challenges/
+│
+├── Arrays/
+│ ├── two_sum.cpp
+│ ├── max_subarray.py
+│
+├── Strings/
+│ ├── valid_anagram.cpp
+│
+├── LinkedList/
+│ ├── reverse_linked_list.cpp
+│
+├── Trees/
+│ ├── inorder_traversal.py
+│
+├── DP/
+│ ├── climbing_stairs.cpp
+│
+├── README.md
+
