@@ -1,4 +1,4 @@
-#  Coding Challenges – LeetCode Solutions
+#  Coding Challenges – LeetCode Solutions 12
 
 This repository contains my personal solutions to various **LeetCode** coding problems. It's part of my daily problem-solving routine to strengthen my skills in **Data Structures and Algorithms (DSA)** and prepare for **technical interviews**.
 
